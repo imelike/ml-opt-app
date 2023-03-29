@@ -1,10 +1,6 @@
 # ml-opt-app
 
-# Demo
-
-Launch the web app:
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+streamlit project deployed with Heroku https://imelike-ml-app.herokuapp.com
 
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.
@@ -12,7 +8,8 @@ To recreate this web app on your own computer, do the following.
 ### Create virtual environment
 Firstly, we will create a environment called *ml-opt-app*
 ```
-python -m venv ml-opt-app
+python -m venv ml-opt-app or
+python -m venv <directory>
 ```
 Secondly, we will login to the *ml--opt-app* environment
 ```
